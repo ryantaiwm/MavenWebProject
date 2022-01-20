@@ -18,5 +18,5 @@ public class HelloServlet
 		resp.setContentType("text/plain");
 		resp.getWriter().write("Maven Web Project deployed on Tomcat server"); 
 	}
-
+ 
 }
