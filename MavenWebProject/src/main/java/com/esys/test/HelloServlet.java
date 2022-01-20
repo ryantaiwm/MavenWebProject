@@ -16,7 +16,7 @@ public class HelloServlet
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
 	{
 		resp.setContentType("text/plain");
-		resp.getWriter().write("Maven Web Project deployed on Tomcat server");
+		resp.getWriter().write("Maven Web Project deployed on Tomcat server"); 
 	}
 
 }
