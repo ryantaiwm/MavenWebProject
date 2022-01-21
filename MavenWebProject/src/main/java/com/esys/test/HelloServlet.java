@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 public class HelloServlet 
 	extends HttpServlet
 { 
-	// 20220121-002
+	// 20220121-003
 	@Override
 	protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException
 	{
